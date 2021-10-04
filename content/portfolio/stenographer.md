@@ -1,0 +1,14 @@
++++
+image = "img/portfolio/steno.png"
+showonlyimage = false
+date = "2021"
+title = "The Stenographer"
+draft = false
+weight = 1
++++
+
+The Stenographer turns your audio into sheet music (poorly).
+<!--more-->
+
+Try it out [here](https://fax-nekfxpjbea-uw.a.run.app/).
+
