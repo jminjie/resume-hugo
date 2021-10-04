@@ -7,7 +7,7 @@ draft = false
 weight = 1
 +++
 
-A low-latency p2p online shared piano.
+A low-latency shared piano for two musicians to jam online.
 <!--more-->
 
 Try Fourhands [here](https://fourhands.jminjie.com/).

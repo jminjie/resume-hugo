@@ -7,7 +7,7 @@ draft = false
 weight = 1
 +++
 
-A poetry e-zine.
+An illustrated poetry e-zine using Bananagrams.
 <!--more-->
 
 Available [here](https://jminjie.github.io/zine/).

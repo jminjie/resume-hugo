@@ -20,3 +20,7 @@ Play the game [here](http://poems.jminjie.com/).
 5. All ending submissions will be displayed in a random order (everyone gets the same order). Read them and talk about them.
 6. Hit the "reveal" button to see the real ending.
 
+#### E.g.
+An example of a poem with several submitted endings:
+
+![Poem example](/img/portfolio/res/poem2.jpeg)

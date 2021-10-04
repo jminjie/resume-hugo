@@ -4,7 +4,7 @@ showonlyimage = false
 date = "2019"
 title = "Murder at the Cricket Lab"
 draft = false
-weight = 0
+weight = 7
 +++
 
 Escape room and murder mystery party.

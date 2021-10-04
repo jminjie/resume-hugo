@@ -7,7 +7,7 @@ draft = false
 weight = 1
 +++
 
-Using Word2Vec to sort ungendered objects by gender.
+Collection of executable poetry using Word2Vec to sort ungendered objects by gender.
 <!--more-->
 
 ![Projections page 4](/img/portfolio/res/proj4.png)

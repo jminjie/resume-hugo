@@ -3,9 +3,7 @@ date = "2021-09-08"
 title = "About"
 +++
 
-Jord Liu is a writer, musician, and programmer. Their work centers poetry, collaborative online experiences, and a merging of the mundane with the absurd.
-
-![Me and my bean][1]
+Jord Liu is a writer, musician, and creative technologist. Their work centers poetry, collaborative online experiences, and a merging of the mundane with the absurd.
 
 A classically trained pianist since 5, and a self taught improviser and multi-instrumentalist, their music spans from rhythmic jazz and funk pieces to heartfelt and personal songs for voice and guitar.
 
@@ -13,4 +11,31 @@ Jord is the co-creator of "Baked! The Musical," an all-Asian musical about canna
 
 Based in San Francisco, CA.
 
-[1]: /img/about.jpg
+
+### According to others
+A collaborator:
+>I am Jord Liu. \
+\
+I am good at making music – I have the skills to take the abstract feelings in my head and translate them to a wide variety of instruments (the right one for the task at hand) almost instantly.\
+\
+What makes me stand out is my relentless desire to search for truths in the smallest or biggest ways. I always ask why, and when what I learn is unsatisfying, I take it upon myself to dig deeper and keep going.\
+\
+I am passionate about understanding how my identities shape the way I look at the world, and sharing my perspective with those that I love.
+
+My brother:
+>Hello, my name is Jordan Liu. I am passionate about the intersection of engineering and art. I believe that the two strengthen each other rather than being distinct. In addition to being passionate, I am also good at both! I’ve succeeded academically and in industry, graduating with a CS degree from the University of Michigan and working for 5 years as a software engineer at Google. I’ve also written an award-winning musical, performed live jazz concerts in SF, and can improvise on pretty much any musical tune or theme.\
+\
+I am thoughtful above all else - I stand strongly for my principles. If I make an argument, I’ll accept and live out the consequences of that belief fully. On a similar note, I’ll go really far for the joke. When I have a decision to make, an important factor to me is how funny the end result will be.\
+\
+I care deeply about cultivating an intimate and honest community around me. I can’t stand to see callousness between people that I love, and will work hard to bridge the gaps that I see between others. Working with others to achieve a shared goal and vision brings out the best in me - I am energized by collaboration.\
+
+My partner:
+>Hi, Jord Liu here!\
+\
+I am passionate above all about creativity in its many forms, excelling at what I do, and connecting with the people around me. I love to write, sing, tell jokes, play music, and figure out difficult engineering problems.\
+\
+I am good at holding myself to all kinds of promises, including schedules I set for myself and my work. In states of creative flow, I am usually bursting with ideas that are compelling to me and I can precisely explain how they fit (or don't!) in a piece's underlying logic, motivations, and vision.\
+\
+In discussion and conflict, I prioritize meeting other people where they're at to work toward a solution. With that also comes profound curiosity, empathy, and interest in others' thriving. My smile also lights up the room.\
+\
+I stand out in that I write without shame, I learn quickly, and I am an absolute firecracker!

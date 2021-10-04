@@ -14,4 +14,7 @@ Superlinks is a Google Chrome extension which "upgrades" your hyperlinks into Su
 
 Why would you want this? I'm not sure.
 
-Get the extension [here](https://chrome.google.com/webstore/detail/superlinks/ildidgmdkfaldcfogkghghkbgjkbhflm) and see a short demo or explore the source [here](https://github.com/jminjie/superlink).
+![Demo](/img/portfolio/res/superlinks_demo.gif)
+
+Join "hundreds" of other users in using the extension [here](https://chrome.google.com/webstore/detail/superlinks/ildidgmdkfaldcfogkghghkbgjkbhflm) or explore the source [here](https://github.com/jminjie/superlink).
+

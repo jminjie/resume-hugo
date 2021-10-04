@@ -4,7 +4,7 @@ showonlyimage = false
 date = "2019"
 title = "Thumbpoems"
 draft = false
-weight = 1
+weight = 4
 +++
 
 A collection of reader-submitted written and found poetry from smart phones.

@@ -4,7 +4,7 @@ showonlyimage = false
 date = "2021"
 title = "Narrative"
 draft = false
-weight = 1
+weight = 2
 +++
 
 Just a plain website.
