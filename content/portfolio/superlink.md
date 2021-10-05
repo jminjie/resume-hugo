@@ -7,7 +7,7 @@ showonlyimage = false
 weight = 0
 +++
 
-"Upgrade" your hyperlinks into Superlinks.
+"Upgrade" your hyperlinks into Superlinks with this Chrome extension.
 
 <!--more-->
 Superlinks is a Google Chrome extension which "upgrades" your hyperlinks into Superlinks (blue underlined text that is also now unclickable).

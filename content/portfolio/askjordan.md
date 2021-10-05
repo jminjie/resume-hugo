@@ -4,7 +4,7 @@ showonlyimage = false
 date = "2019"
 title = "Ask Jordan"
 draft = false
-weight = 5
+weight = 3
 +++
 
 A search engine that answers queries by texting Jordan and waiting for a response.

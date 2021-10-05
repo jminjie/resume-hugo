@@ -4,7 +4,7 @@ showonlyimage = false
 date = "2021"
 title = "Projections"
 draft = false
-weight = 1
+weight = 2
 +++
 
 Collection of executable poetry using Word2Vec to sort ungendered objects by gender.

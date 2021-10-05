@@ -7,7 +7,7 @@ draft = false
 weight = 1
 +++
 
-Baked! The Musical is an all-Asian show about cannabis-infused Chinese bakery edibles.
+Baked! The Musical is a full length musical about cannabis-infused Chinese bakery edibles, featuring an all-Asian cast. 
 <!--more-->
 
 The show premiered at the Chicago Musical Theatre Festival 2020, where it won Best Lyrics, Best Lead, Best Supporting, and Best Ensemble.

@@ -4,7 +4,7 @@ showonlyimage = false
 date = "2020"
 title = "Part Poems"
 draft = false
-weight = 1
+weight = 3
 +++
 
 An illustrated poetry e-zine using Bananagrams.

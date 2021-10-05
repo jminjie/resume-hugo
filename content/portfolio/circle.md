@@ -3,7 +3,7 @@ draft = false
 image = "img/portfolio/circle.png"
 date = "2021"
 title = "Irregular Circle"
-weight = 1
+weight = 2
 +++
 
 An in-browser drum machine which uses irregularity.

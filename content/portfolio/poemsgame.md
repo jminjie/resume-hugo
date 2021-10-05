@@ -4,7 +4,7 @@ showonlyimage = false
 date = "2020-2021"
 title = "The Poems Game"
 draft = false
-weight = 1
+weight = 2
 +++
 
 A multiplayer online Balderdash-style game for writing poetry.

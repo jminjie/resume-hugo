@@ -4,13 +4,13 @@ showonlyimage = false
 date = "2019"
 title = "TypeByke"
 draft = false
-weight = 1
+weight = 3
 +++
 
-TypeByke is a local 0-2 player game that combines Tron and Scrabble.
+TypeByke is an in-browser game for between 0 and 2 local players that combines Tron and Scrabble.
 <!--more-->
 
-The game is available to play online [here](TODO).
+The game is available to play online [here](https://jminjie.github.io/typebyke-demo/).
 
 You can also browse the source [here](https://github.com/jminjie/typebike).
 

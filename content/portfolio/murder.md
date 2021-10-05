@@ -7,7 +7,7 @@ draft = false
 weight = 7
 +++
 
-Escape room and murder mystery party.
+A writeup of an escape room and murder mystery party.
 <!--more-->
 
 "Murder at the Cricket Lab" is an escape room and murder mystery party that I hosted in my apartment for Halloween in 2019. You can read my retrospective on the event [here](https://medium.com/@jordanminjie/murder-at-the-cricket-lab-a-postmortem-2312e398de04).
