@@ -7,7 +7,7 @@ draft = false
 weight = 3
 +++
 
-Just a plain website. (A ten minute interactive experience about online narratives.)
+A ten minute interactive experience about online narratives.
 <!--more-->
 
 What makes people supportive or dismissive of social movements? How does online communication shape public opinion? NARRATIVE is a collaborative experience which explores these questions and more.
