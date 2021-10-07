@@ -27,7 +27,7 @@ My brother:
 \
 I am thoughtful above all else - I stand strongly for my principles. If I make an argument, I’ll accept and live out the consequences of that belief fully. On a similar note, I’ll go really far for the joke. When I have a decision to make, an important factor to me is how funny the end result will be.\
 \
-I care deeply about cultivating an intimate and honest community around me. I can’t stand to see callousness between people that I love, and will work hard to bridge the gaps that I see between others. Working with others to achieve a shared goal and vision brings out the best in me - I am energized by collaboration.\
+I care deeply about cultivating an intimate and honest community around me. I can’t stand to see callousness between people that I love, and will work hard to bridge the gaps that I see between others. Working with others to achieve a shared goal and vision brings out the best in me - I am energized by collaboration.
 
 My partner:
 >Hi, Jord Liu here!\
