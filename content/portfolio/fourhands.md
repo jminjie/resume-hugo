@@ -10,6 +10,8 @@ weight = 2
 A low-latency shared piano for two musicians to jam online.
 <!--more-->
 
+![Fourhands logo](/img/portfolio/res/fourhandslogo.png)
+
 Try Fourhands [here](https://fourhands.jminjie.com/).
 
 Explore the source [here](https://github.com/jminjie/fourhands).
