@@ -4,20 +4,25 @@ showonlyimage = false
 date = "2019"
 title = "TypeByke"
 draft = false
-weight = 3
+weight = 2
 +++
 
-TypeByke is an in-browser game for between 0 and 2 local players that combines Tron and Scrabble.
+TypeByke is a game for 0-2 (yes, 0) players that combines Tron and Scrabble.
 <!--more-->
 
-The game is available to play online [here](https://jminjie.github.io/typebyke-demo/).
+![TypeByke Logo](/img/portfolio/res/typebyke_logo.png)
 
-You can also browse the source [here](https://github.com/jminjie/typebike).
+#### Play the game:
+
+Available to play in your browser with local multiplayer [here](https://jminjie.github.io/typebyke-demo/).
+
+#### Browse the source:
+Made with Unity. You find the full source code [here](https://github.com/jminjie/typebike).
 
 #### Watch the making-of:
 
 TypeByke was made over a 5-day span, and we took demo videos at the end of each day. Watch as our AI slowly becomes totally dominant and eventually removes the need for human players.
 
-[![TypeByke demo vieos](http://img.youtube.com/vi/uEegaLnHKi8/0.jpg)](https://www.youtube.com/playlist?list=PL2tL35ZQgYaQttc5dzsCBwVE7e4DMoPlg)
+[![TypeByke: Demo and Development](http://img.youtube.com/vi/uEegaLnHKi8/0.jpg)](https://www.youtube.com/watch?v=ScwzWA4PDdU)
 
 

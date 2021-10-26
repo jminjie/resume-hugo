@@ -3,7 +3,7 @@ date = "2021-09-08"
 title = "About"
 +++
 
-Jord Liu is a writer, musician, and creative technologist. Their work centers poetry, collaborative online experiences, and a merging of the mundane with the absurd.
+Jord Liu is a writer, musician, and creative technologist. Their work centers music and poetry, collaborative online experiences, and a merging of the mundane with the absurd.
 
 A classically trained pianist since 5, and a self taught improviser and multi-instrumentalist, their music spans from rhythmic jazz and funk pieces to heartfelt and personal songs for voice and guitar.
 
