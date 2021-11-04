@@ -1,5 +1,5 @@
 +++
-image = "img/portfolio/baked.jpg"
+image = "img/portfolio/baked.png"
 showonlyimage = false
 date = "2017-present"
 title = "Baked! The Musical"
@@ -10,7 +10,7 @@ weight = 1
 Baked! The Musical is a full length musical about cannabis-infused Chinese bakery edibles, featuring an all-Asian cast. 
 <!--more-->
 
-!["Baked! The Musical" photo](/img/portfolio/baked.jpg)
+!["Baked! The Musical" photo](/img/portfolio/res/baked3.jpg)
 
 The show premiered at the Chicago Musical Theatre Festival 2020, where it won Best Lyrics, Best Lead, Best Supporting, and Best Ensemble.
 
