@@ -4,7 +4,7 @@ showonlyimage = false
 date = "2021"
 title = "Narrative"
 draft = false
-weight = 3
+weight = 5
 +++
 
 A ten minute interactive experience about online narratives.

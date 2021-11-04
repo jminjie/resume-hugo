@@ -4,7 +4,7 @@ showonlyimage = false
 date = "2021"
 title = "The Stenographer"
 draft = false
-weight = 2
+weight = 4
 +++
 
 The Stenographer turns your audio into sheet music (poorly) which you can then listen to in your browser.

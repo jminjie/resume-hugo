@@ -4,7 +4,7 @@ showonlyimage = false
 date = "2021"
 title = "Robots Only"
 draft = false
-weight = 2
+weight = 3
 +++
 
 A website that only lets in robots.
