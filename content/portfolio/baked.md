@@ -10,7 +10,7 @@ weight = 1
 Baked! The Musical is a full length musical about cannabis-infused Chinese bakery edibles, featuring an all-Asian cast. 
 <!--more-->
 
-!["Baked! The Musical" photo](/img/portfolio/res/baked3.jpg)
+!["Baked! The Musical" photo](https://i.imgur.com/0M40dqt.jpeg)
 
 The show premiered at the Chicago Musical Theatre Festival 2020, where it won Best Lyrics, Best Lead, Best Supporting, and Best Ensemble.
 
@@ -25,9 +25,8 @@ Baked! The Musical is a reflection on perfectionism, self worth, and the questio
 
 Interested in producing the show? Check out a production packet [here](https://tinyurl.com/bakedpromo) and song demos on [Soundcloud](https://soundcloud.com/baked-the-musical/sets/baked-the-musical-demos).
 
-!["Baked! The Musical" photo](/img/portfolio/res/baked1.jpg)
+!["Baked! The Musical" photo](https://i.imgur.com/6P6kUWx.jpeg)
 
-!["Baked! The Musical" photo](/img/portfolio/res/baked2.jpg)
 
 ### Press
 * "Rife with laughter and crackling with charisma, this musical burns with fiery grooves and tuneful melodies. Sleek, charming, and razor-sharp, this raucous journey of family and friendship from a far-underrepresented perspective, Baked! is certain to win the ears and hearts of any and all audiences." – Chicagoland Musical Theatre
