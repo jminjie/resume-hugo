@@ -11,6 +11,7 @@ Baked! The Musical is a full length musical about cannabis-infused Chinese baker
 <!--more-->
 
 !["Baked! The Musical" photo](https://i.imgur.com/0M40dqt.jpeg)
+*CMTF 2020 - Photo by Katy Campbell*
 
 The show premiered at the Chicago Musical Theatre Festival 2020, where it won Best Lyrics, Best Lead, Best Supporting, and Best Ensemble.
 
@@ -26,6 +27,7 @@ Baked! The Musical is a reflection on perfectionism, self worth, and the questio
 Interested in producing the show? Check out a production packet [here](https://tinyurl.com/bakedpromo) and song demos on [Soundcloud](https://soundcloud.com/baked-the-musical/sets/baked-the-musical-demos).
 
 !["Baked! The Musical" photo](https://i.imgur.com/6P6kUWx.jpeg)
+*CMTF 2020 - Photo by Katy Campbell*
 
 
 ### Press
