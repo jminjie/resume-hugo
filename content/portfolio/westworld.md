@@ -1,10 +1,10 @@
 +++
 image = "img/portfolio/westworld.png"
-showonlyimage = false
+showonlyimage = true
 date = "2020"
 title = "Westworld Scoring Contest"
 draft = false
-weight = 5
+weight = 7
 +++
 
 An unofficial scene for Westworld which I scored.

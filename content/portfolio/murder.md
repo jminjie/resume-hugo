@@ -1,6 +1,6 @@
 +++
 image = "img/portfolio/cricket.png"
-showonlyimage = false
+showonlyimage = true
 date = "2019"
 title = "Murder at the Cricket Lab"
 draft = false

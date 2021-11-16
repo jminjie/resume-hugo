@@ -19,7 +19,7 @@ Available [here](https://jminjie.github.io/zine/).
 #### About
 During our quarantine for COVID-19 we had close friends and roommates leaving the city while new loved ones, including my partner, joined our house.
 
-Theres a game we played occasionally using Bananagrams tiles, which are basically freeform Scrabble letters: you are given tiles and a limited amount of time to form them into vertical and horizontal words, as in Scrabble. An important strategy is to be willing to break up existing words in order to accommodate new letters that you have to use.
+There's a game we played occasionally using Bananagrams tiles, which are basically free form Scrabble letters: you are given tiles and a limited amount of time to form them into vertical and horizontal words, as in Scrabble. An important strategy is to be willing to break up existing words in order to accommodate new letters that you have to use.
 
 At the end of the game, you use the words you constructed to write a poem. "(P)art poems" is a collection of these poems, and an exploration of this period of our lives.
 
