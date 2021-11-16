@@ -29,3 +29,8 @@ The result is a series of newly gendered things.
 
 
 Read "Projections" [here](/img/portfolio/res/projections.pdf).
+
+#### About
+Prior work has shown that word embeddings can be effective at making [certain kinds of analogies](https://blog.esciencecenter.nl/king-man-woman-king-9a7fd2935a85?gi=1b2f32b87ec8). I was playing around with these locally and thought to calculate the analogy "boy:haha::girl:__", to which the computer provided the answer, "lolol," which I found strange and appropriate.
+
+"Projections" highlights humorous computer insights like this, projected into 2D space, while questioning where our conceptions of gender come from.

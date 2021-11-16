@@ -10,6 +10,9 @@ weight = 5
 An unofficial scene for Westworld which I scored.
 <!--more-->
 
-Watch a scene from Westworld with my original score [here](https://www.youtube.com/watch?v=7BQ4G1vrivc).
+As part of the [Spitfire Westworld competition](https://www.spitfireaudio.com/westworld/) I composed an original score using Logic Pro for a scene from HBO's Westworld.
 
-This was my submission for a Westworld Scoring Contest.
+Watch the video below.
+
+[![Preview of video](/img/portfolio/res/westworld.png)](https://www.youtube.com/watch?v=7BQ4G1vrivc)
+

@@ -12,3 +12,12 @@ A collection of reader-submitted written and found poetry from smart phones.
 
 Thumbpoems is live at [thumbpoems.com](https://thumbpoems.com/).
 
+#### Selected poems
+Other-worldly work email
+
+![Image preview.](/img/portfolio/res/thumbpoems.png)
+
+A text you never sent
+
+![Image preview.](/img/portfolio/res/thumbpoems2.png)
+
