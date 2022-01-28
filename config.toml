@@ -10,13 +10,11 @@ googleAnalytics = ""
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
-  style = "default"
+  style = "red"
   description = "Portfolio for Jord Liu"
   copyright = "&copy;2021 Jord Liu"
   sidebarAbout = [
-    "Jord Liu is a writer, musician, and creative technologist.",
-    "Their work centers music and poetry, collaborative online experiences, and a merging of the mundane with the absurd.",
-    "Jord is based in San Francisco, CA"
+    "Jord Liu is a writer, musician, and creative technologist based in San Francisco, CA"
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -43,9 +41,13 @@ googleAnalytics = ""
 
   # Nav links in the side bar
   [[params.navlinks]]
-  name = "Home"
+  name = "Portfolio"
   url = "portfolio/"
   home = true
+
+  [[params.navlinks]]
+  name = "Theatre"
+  url = "theatre/"
 
   [[params.navlinks]]
   name = "About"

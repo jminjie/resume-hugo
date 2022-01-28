@@ -3,14 +3,20 @@ date = "2021-09-08"
 title = "About"
 +++
 
-Jord Liu is a writer, musician, and creative technologist. Their work centers music and poetry, collaborative online experiences, and a merging of the mundane with the absurd.
+![photo of Jord](/img/portfolio/profile2.png)
 
-A classically trained pianist since 5, and a self taught improviser and multi-instrumentalist, their music spans from rhythmic jazz and funk pieces to heartfelt and personal songs for voice and guitar.
-
-Jord is the co-creator of "Baked! The Musical," an all-Asian musical about cannabis-infused Chinese bakery pastries, which premiered at the Chicago Musical Theatre Festival 2020, winning Best Lyrics, Best Lead, Best Supporting, and Best Ensemble.
+Jord Liu is a theater maker, musician, and creative technologist whose work centers collaborative engagement with art.
 
 Based in San Francisco, CA.
 
+##### In theater:
+Jord has produced and music directed with Underscore Theatre in Chicago, the Chicago Musical Theatre Festival, the New York Musical Festival, the National Asian American Theatre Company (NAATCO) in New York, Shotgun Players in Berkeley, and FaultLine Theater and Z-Space in San Francisco.
+
+##### In music:
+They are a multi-instrumentalist and composer, and a classically trained pianist that now makes music spanning many contemporary genres including jazz and pop.
+
+##### In technology:
+Jord worked as a Software Engineer at Google from 2016 to 2021, on the Android OS telephony stack.
 
 ### According to others
 A collaborator:
@@ -39,3 +45,5 @@ I am good at holding myself to all kinds of promises, including schedules I set 
 In discussion and conflict, I prioritize meeting other people where they're at to work toward a solution. With that also comes profound curiosity, empathy, and interest in others' thriving. My smile also lights up the room.\
 \
 I stand out in that I write without shame, I learn quickly, and I am an absolute firecracker!
+
+![Gif of baby chicken.](/img/portfolio/chick.gif)

@@ -1,6 +1,5 @@
 +++
 image = "img/portfolio/westworld.png"
-showonlyimage = true
 date = "2020"
 title = "Westworld Scoring Contest"
 draft = false

@@ -1,10 +1,9 @@
 +++
 draft = false
 image = "img/portfolio/dontlook.png"
-showonlyimage = true
 date = "2018"
 title = "Don't look at me"
-weight = 9
+weight = 4
 +++
 
 What does it feel like to be watched?

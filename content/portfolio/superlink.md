@@ -4,7 +4,7 @@ title = "Superlinks"
 draft = false
 image = "img/portfolio/superlinks.png"
 showonlyimage = false
-weight = 0
+weight = 6
 +++
 
 "Upgrade" your hyperlinks into Superlinks with this Chrome extension.
