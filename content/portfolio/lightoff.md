@@ -1,6 +1,5 @@
 +++
 image = "img/portfolio/lightsoff.png"
-showonlyimage = true
 date = "2021"
 title = "Leave the Light Off"
 draft = false

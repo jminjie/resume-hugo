@@ -1,6 +1,5 @@
 +++
 image = "img/portfolio/glaciermice.png"
-showonlyimage = true
 date = "2020"
 title = "Glacier Mice Song"
 draft = false

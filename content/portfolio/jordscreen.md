@@ -4,7 +4,7 @@ showonlyimage = false
 date = "2021"
 title = "Jordscreen"
 draft = false
-weight = 2
+weight = 5
 +++
 
 A DIY smart photo frame made with a RaspberryPi, an LCD touch screen, and a 3D printer, which displays images sent to me by my friends and family.

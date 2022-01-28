@@ -1,0 +1,39 @@
+body {
+    font-family: "Tahoma";
+    background-color: white;
+}
+
+h1, h2, h3, h4 {
+    font-family: "Tahoma";
+}
+
+.sidebar-menu {
+    font-family: "Tahoma";
+}
+
+.box-masonry {
+    box-shadow: 0 0 0 0;
+    border-style: dotted;
+    border-color: #999999;
+    padding: 5px;
+    background-color: white;
+}
+
+.box-masonry:hover {
+    box-shadow: 0 0 0 0;
+}
+
+.sidebar-p {
+    font-size: 16px;
+    color: #555555;
+}
+
+@media screen and (min-width: 800px) {
+    body {
+        max-width: 95%;
+    }
+
+    #sidebar {
+        padding: 5em 0em 0em 5em;
+    }
+}
