@@ -10,7 +10,7 @@ Jord Liu is a theater maker, musician, and creative technologist whose work cent
 Based in San Francisco, CA.
 
 ##### In theater:
-Jord has produced and music directed with Underscore Theatre in Chicago, the Chicago Musical Theatre Festival, the New York Musical Festival, the National Asian American Theatre Company (NAATCO) in New York, Shotgun Players in Berkeley, and FaultLine Theater and Z-Space in San Francisco.
+Jord has produced and music directed with Underscore Theatre in Chicago, the Chicago Musical Theatre Festival, the New York Musical Festival, the National Asian American Theatre Company (NAATCO), Musical Theatre Factory, and PACE University in New York, Shotgun Players in Berkeley, and FaultLine Theater and Z-Space in San Francisco.
 
 ##### In music:
 They are a multi-instrumentalist and composer, and a classically trained pianist that now makes music spanning many contemporary genres including jazz and pop.
