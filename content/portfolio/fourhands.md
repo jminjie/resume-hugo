@@ -4,7 +4,7 @@ showonlyimage = false
 date = "2021"
 title = "Fourhands"
 draft = false
-weight = 2
+weight = 4
 +++
 
 A low-latency shared piano for two musicians to jam online.

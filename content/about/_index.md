@@ -3,9 +3,9 @@ date = "2021-09-08"
 title = "About"
 +++
 
-![photo of Jord](/img/portfolio/profile2.png)
+![photo of Jord](/img//prof.jpeg)
 
-Jord Liu is a theater maker, musician, and creative technologist whose work centers collaborative engagement with art.
+Jord Liu (she/they) is a theater maker, musician, and creative technologist whose work centers collaborative engagement with art.
 
 Based in San Francisco, CA.
 
@@ -13,10 +13,10 @@ Based in San Francisco, CA.
 Jord has produced and music directed with Underscore Theatre in Chicago, the Chicago Musical Theatre Festival, the New York Musical Festival, the National Asian American Theatre Company (NAATCO), Musical Theatre Factory, and PACE University in New York, Shotgun Players in Berkeley, and FaultLine Theater and Z-Space in San Francisco.
 
 ##### In music:
-They are a multi-instrumentalist and composer, and a classically trained pianist that now makes music spanning many contemporary genres including jazz and pop.
+She is a multi-instrumentalist and composer, and a classically trained pianist that now makes music spanning many contemporary genres including jazz and pop.
 
 ##### In technology:
-Jord worked as a Software Engineer at Google from 2016 to 2021, on the Android OS telephony stack.
+In 2022 Jord joined the <a href="https://www.exploratorium.edu/">Exploratorium</a> in San Francisco as a New Media Exhibit Developer designing and prototyping new exhibits. Prior to that she worked as a Software Engineer at Google from 2016 to 2021, on the Android OS telephony stack. Her installations has been shown at the Canessa Gallery and the Exploratorium in San Francisco.
 
 ### According to others
 A collaborator:
