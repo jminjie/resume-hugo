@@ -10,7 +10,7 @@ Jord Liu (she/they) is a theater maker, musician, and creative technologist whos
 Based in San Francisco, CA.
 
 ##### In theater:
-Jord's first show, "Baked! The Musical," (co-created with Deepak Kumar) premiered at the Chicago Musical Theatre Festival 2020, where it won awards for Best Lyrics, Best Lead, Best Supporting, and Best Ensemble. Since then the shows has been accepted into RAVE 2020, NYFM 2020, was a NMTC 2022 semi-finalist, and most recently was selected for NAMT 2022. She has also produced and music directed with Underscore Theatre in Chicago, the National Asian American Theatre Company (NAATCO), Musical Theatre Factory, and PACE University in New York, Shotgun Players in Berkeley, and FaultLine Theater and Z-Space in San Francisco.
+Jord's first show, "Baked! The Musical," (co-created with Deepak Kumar) premiered at the Chicago Musical Theatre Festival 2020, where it won awards for Best Lyrics, Best Lead, Best Supporting, and Best Ensemble. Since then the show has been accepted into RAVE 2020, NYFM 2020, was a NMTC 2022 semi-finalist, and most recently was selected for NAMT 2022. She has also produced and music directed with Underscore Theatre in Chicago, the National Asian American Theatre Company (NAATCO), Musical Theatre Factory, and PACE University in New York, Shotgun Players in Berkeley, and SFBATCO, FaultLine Theater and Z-Space in San Francisco.
 
 ##### In music:
 She is a multi-instrumentalist and composer, and a classically trained pianist that now makes music spanning many contemporary genres including jazz and pop.
