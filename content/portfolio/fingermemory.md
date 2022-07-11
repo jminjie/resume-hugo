@@ -3,7 +3,7 @@ image = "img/portfolio/eh.png"
 date = "2022"
 title = "Finger Memory"
 draft = false
-weight = 1
+weight = 2
 +++
 
 Physical installation at Canessa Gallery SF as part of Electrical Health.
