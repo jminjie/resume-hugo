@@ -18,6 +18,8 @@ The score merges Shidaiqu, a genre of then popular dancing music, with elements 
 
 We follow the journey of a young laborer and musician from the countryside who comes to Shanghai to pursue the study of jazz. They fall in with a group of dissidents, artists, students, and misfits. The group rubs against the corrupt rule of Shanghai’s organized crime and opium trade, propped up by the Nationalists under Jiang Jieshi. It culminates in the Shanghai Massacre and the murder of 10,000 suspected and known Communists. The laborer, not a communist themselves, is one of the few who remain to pick up the pieces of the city.
 
+This show was developed in part with SFBATCO's Creators Lab in 2022.
+
 ### Why
 What is the role of an art in a revolution?
 

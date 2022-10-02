@@ -26,9 +26,10 @@ A stenotype is a specialty keyboard commonly used for courtroom transcriptions
 and live captioning which allows typists to achieve 200-300 wpm speeds. This is
 achieved through typing multiple keys at the same time. Specifically, the left
 hand types sounds at the beginning of a word, the thumbs type sounds in the
-middle of the word, and the right hand types sounds at the end of the word. To
-type the word "cat" for instance, you would hold down a K on the left, an A in
-the middle, and a T on the right.
+middle of the word, and the right hand types sounds at the end of the word, all
+simultaneously. To type the word "cat" for instance, you would hold down a K on
+the left, an A in the middle, and a T on the right, and when you let go of the
+three keys, the word would be inputted.
 
 ![Diagram showing how to type KAT](/img/portfolio/res/kat.png)
 

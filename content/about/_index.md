@@ -5,7 +5,7 @@ title = "About"
 
 ![photo of Jord](/img//prof.jpeg)
 
-Jord Liu (she/they) is a theater maker, musician, and creative technologist whose work centers collaborative engagement with art.
+Jord Liu (she/her) is a theater maker, musician, and creative technologist whose work centers collaborative engagement with art.
 
 Based in San Francisco, CA.
 

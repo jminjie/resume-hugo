@@ -2,7 +2,7 @@
 image = "img/portfolio/westworld.png"
 date = "2020"
 title = "Westworld Scoring Contest"
-draft = false
+draft = true
 weight = 7
 +++
 
