@@ -3,7 +3,7 @@ image = "img/portfolio/jordscreen.png"
 showonlyimage = false
 date = "2021"
 title = "Jordscreen"
-draft = false
+draft = true
 weight = 5
 +++
 
