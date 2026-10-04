@@ -6,7 +6,7 @@ title = "THE BIGNESS OF US"
 draft = false
 weight = 1
 +++
-A new musical in development set in Shanghai in the 1930s which explores the political tension and music of the era.
+A new musical in development set in Shanghai in the 1920s which explores the political tension and music of the era.
 
 <!--more-->
 !["The Bigness of Us at NRTF"](/img/theater/res/BROAS_SFBATCO-NRTF_2023-13.jpg)
