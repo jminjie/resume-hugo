@@ -15,7 +15,7 @@ googleAnalytics = ""
   description = "Portfolio projects by Jord Liu"
   copyright = "&copy;2026 Jord Liu"
   sidebarAbout = [
-        "Jord Liu (she/her) is a musician, and creative technologist, and theater maker based in San Francisco, CA."
+        "Jord Liu (she/her) is a musician, creative technologist, and theater maker based in San Francisco, CA."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a

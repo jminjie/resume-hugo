@@ -5,7 +5,7 @@ title = "About"
 
 ![photo of Jord](/img//prof.jpeg)
 
-Jord Liu (she/her) is a musician, and creative technologist, and theater maker based in San Francisco, CA.
+Jord Liu (she/her) is a musician, creative technologist, and theater maker based in San Francisco, CA.
 
 ##### In music:
 She is a multi-instrumentalist, composer, song writer, singer, music director, and a classically trained pianist that now makes music spanning many contemporary genres including jazz and pop.
