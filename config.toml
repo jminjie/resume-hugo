@@ -11,6 +11,7 @@ googleAnalytics = ""
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
+  style = "deepblue"
   description = "Portfolio projects by Jord Liu"
   copyright = "&copy;2026 Jord Liu"
   sidebarAbout = [
