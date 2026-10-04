@@ -1,5 +1,5 @@
 +++
-image = "img/portfolio/jordscreen.png"
+image = "img/technology/jordscreen.png"
 showonlyimage = false
 date = "2021"
 title = "Jordscreen"
@@ -10,18 +10,18 @@ weight = 5
 A DIY smart photo frame made with a RaspberryPi, an LCD touch screen, and a 3D printer, which displays images sent to me by my friends and family.
 <!--more-->
 
-![Jordscreen demo image](/img/portfolio/res/jordscreen1.png)
+![Jordscreen demo image](/img/technology/res/jordscreen1.png)
 
 I designed and 3D printed the frame in PLA (plant based plastic).
 
 To change the image you simply tap the screen. Otherwise, the images will cycle
 automatically every few minutes.
 
-![Jordscreen demo image](/img/portfolio/res/jordscreen2.png)
+![Jordscreen demo image](/img/technology/res/jordscreen2.png)
 
 This image was sent to Jordscreen by my parents.
 
-![Jordscreen demo image](/img/portfolio/res/jordscreen3.png)
+![Jordscreen demo image](/img/technology/res/jordscreen3.png)
 
 You can try sending me an email with an image attached and `jordscreen` in the subject.
 

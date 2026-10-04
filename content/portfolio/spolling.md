@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/spolling.png"
+image = "img/technology/spolling.png"
 date = "2022"
 title = "Spolling Bree"
 weight = 1
@@ -24,6 +24,6 @@ this model is an RNN with GRUs which I've trained locally. (This is the model
 that is currently deployed.)
 
 
-![Image from Spolling Bree](/img/portfolio/res/spolling_demo.png)
+![Image from Spolling Bree](/img/technology/res/spolling_demo.png)
 
 The source is available [here](https://github.com/jminjie/spollingbree).

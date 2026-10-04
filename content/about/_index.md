@@ -1,25 +1,24 @@
 +++
-date = "2021-09-08"
+date = "2026-10-03"
 title = "About"
 +++
 
 ![photo of Jord](/img//prof.jpeg)
 
-Jord Liu (she/her) is a theater maker, musician, and creative technologist whose work centers collaborative engagement with art.
-
-Based in San Francisco, CA.
-
-##### In theater:
-Jord's first show, "Baked! The Musical," (co-created with Deepak Kumar) premiered at the Chicago Musical Theatre Festival 2020, where it won awards for Best Lyrics, Best Lead, Best Supporting, and Best Ensemble. Since then the show has been accepted into RAVE 2020, NYMF 2020, and most recently NAMT 2022. She is a Eugene O'Neill NMTC Semifinalist, as well as a resident with SFBATCO's 2022 Creator's Lab. Jord has produced and music directed with Underscore Theatre in Chicago, the National Asian American Theatre Company (NAATCO), Musical Theatre Factory, and PACE University in New York, Shotgun Players in Berkeley, FaultLine Theater and Z-Space in San Francisco.
+Jord Liu (she/her) is a musician, and creative technologist, and theater maker based in San Francisco, CA.
 
 ##### In music:
-She is a multi-instrumentalist and composer, and a classically trained pianist that now makes music spanning many contemporary genres including jazz and pop.
+She is a multi-instrumentalist, composer, song writer, singer, music director, and a classically trained pianist that now makes music spanning many contemporary genres including jazz and pop.
 
-##### In technology:
-In 2022 Jord joined the <a href="https://www.exploratorium.edu/">Exploratorium</a>, a world-renowned interactive art and science museum in San Francisco, as a New Media Exhibit Developer designing and prototyping new exhibits. Prior to that she worked as a Software Engineer at Google from 2016 to 2021, on the Android OS telephony stack. Her installations have been shown at the Canessa Gallery and the Exploratorium in San Francisco.
+##### In theater:
+Jord's first show, “Baked! The Musical,” (co-created with Deepak Kumar) premiered at the Chicago Musical Theatre Festival 2020, where it won awards for Best Lyrics, Best Lead, Best Supporting, and Best Ensemble. Since then the show has been accepted into RAVE 2020, NYMF 2020, and most recently NAMT 2022. She is a Eugene O’Neill NMTC Semifinalist, as well as a past resident with SFBATCO’s 2022 Creator’s Lab, the Johnny Mercer Foundation and Goodspeed Writers Grove in 2024, and the Musical Theatre Factory Makers III residency. Jord’s work has been produced by Underscore Theatre and Theo in Chicago, Village Theatre in Issaquah, the National Asian American Theatre Company (NAATCO), Prospect Musicals, Musical Theatre Factory, and PACE University in New York, SFBATCO, Shotgun Players and FaultLine Theater in the San Francisco Bay Area.
+
+
+##### In creative technology:
+In 2022 Jord joined the <a href="https://www.exploratorium.edu/">Exploratorium</a>, a world-renowned interactive art and science museum in San Francisco, as an Exhibit Developer designing and prototyping new exhibits. Prior to that she worked as a Software Engineer at Google from 2016 to 2021, on the Android OS telephony stack.
 
 ### According to others
-A collaborator:
+My co-writer:
 >I am Jord Liu. \
 \
 I am good at making music – I have the skills to take the abstract feelings in my head and translate them to a wide variety of instruments (the right one for the task at hand) almost instantly.\
@@ -35,7 +34,7 @@ I am thoughtful above all else - I stand strongly for my principles. If I make a
 \
 I care deeply about cultivating an intimate and honest community around me. I can’t stand to see callousness between people that I love, and will work hard to bridge the gaps that I see between others. Working with others to achieve a shared goal and vision brings out the best in me - I am energized by collaboration.
 
-My partner:
+My friend:
 >Hi, Jord Liu here!\
 \
 I am passionate above all about creativity in its many forms, excelling at what I do, and connecting with the people around me. I love to write, sing, tell jokes, play music, and figure out difficult engineering problems.\
@@ -46,4 +45,4 @@ In discussion and conflict, I prioritize meeting other people where they're at t
 \
 I stand out in that I write without shame, I learn quickly, and I am an absolute firecracker!
 
-![Gif of baby chicken.](/img/portfolio/chick.gif)
+![Gif of baby chicken.](/img/technology/chick.gif)

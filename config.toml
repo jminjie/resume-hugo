@@ -1,5 +1,6 @@
 baseurl = "https://jminjie.com/"
 title = "Jord Liu | Portfolio"
+#theme = "jord_custom"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -10,11 +11,10 @@ googleAnalytics = ""
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
-  style = "red"
-  description = "Portfolio for Jord Liu"
-  copyright = "&copy;2021 Jord Liu"
+  description = "Portfolio projects by Jord Liu"
+  copyright = "&copy;2026 Jord Liu"
   sidebarAbout = [
-    "Jord Liu is a writer, musician, and creative technologist based in San Francisco, CA"
+        "Jord Liu (she/her) is a musician, and creative technologist, and theater maker based in San Francisco, CA."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -41,7 +41,7 @@ googleAnalytics = ""
 
   # Nav links in the side bar
   [[params.navlinks]]
-  name = "Portfolio"
+  name = "Technology"
   url = "portfolio/"
   home = true
 
@@ -58,5 +58,5 @@ googleAnalytics = ""
   url = "contact/"
 
   [params.social]
-  instagram     = "https://www.instagram.com/jordan_takes_pictures_of_a_cat/"
+  instagram     = "https://www.instagram.com/jord_takes_pictures_of_a_cat/"
   github        = "https://github.com/jminjie"

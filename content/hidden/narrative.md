@@ -1,5 +1,5 @@
 +++
-image = "img/portfolio/narrative.png"
+image = "img/technology/narrative.png"
 showonlyimage = false
 date = "2021"
 title = "Narrative"

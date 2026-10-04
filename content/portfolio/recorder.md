@@ -1,5 +1,5 @@
 +++
-image = "img/portfolio/recorder.png"
+image = "img/technology/recorder.png"
 showonlyimage = false
 date = "2021"
 title = "The Recorder"
@@ -12,6 +12,6 @@ The Recorder turns your audio into sheet music (poorly) which you can then liste
 <!--more-->
 The generated piece is named using speech recognition.
 
-![Example of sheet music from The Recorder](/img/portfolio/res/sheet.png)
+![Example of sheet music from The Recorder](/img/technology/res/sheet.png)
 
 Try it out [here](https://fax-nekfxpjbea-uw.a.run.app/).

@@ -1,5 +1,5 @@
 +++
-image = "img/portfolio/zine.png"
+image = "img/technology/zine.png"
 showonlyimage = false
 date = "2020"
 title = "Part Poems"
@@ -14,7 +14,7 @@ An illustrated poetry e-zine using Bananagrams.
 
 Available [here](https://jminjie.github.io/zine/).
 
-![Image preview](/img/portfolio/res/poems.png)
+![Image preview](/img/technology/res/poems.png)
 
 #### About
 During our quarantine for COVID-19 we had close friends and roommates leaving the city while new loved ones, including my partner, joined our house.

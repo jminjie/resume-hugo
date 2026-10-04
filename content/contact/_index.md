@@ -1,5 +1,5 @@
 +++
-date = "2021-09-08"
-title = "Email me at jordanminjie on gmail"
+date = "2026-10-03"
+title = "Email me at  jordanminjie at gmail"
 +++
 

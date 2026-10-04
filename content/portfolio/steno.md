@@ -1,5 +1,5 @@
 +++
-image = "img/portfolio/steno.png"
+image = "img/technology/steno.png"
 date = "2022"
 title = "Musical Stenotype"
 draft = false
@@ -14,11 +14,11 @@ The musical stenotype was prototyped for the Hindes 2022 Prototyping Festival
 at the Exploratorium. It combines a MIDI keyboard along with stenography theory
 to produce novel compositions.
 
-![Photo of someone using the musical steno](/img/portfolio/res/stenovis2.png)
+![Photo of someone using the musical steno](/img/technology/res/stenovis2.png)
 
-![Photo of someone using the musical steno](/img/portfolio/res/stenovis1.png)
+![Photo of someone using the musical steno](/img/technology/res/stenovis1.png)
 
-![Photo of someone using the musical steno](/img/portfolio/res/stenovis3.png)
+![Photo of someone using the musical steno](/img/technology/res/stenovis3.png)
 Hindes 2022 Exploratorium
 
 #### About
@@ -31,12 +31,12 @@ simultaneously. To type the word "cat" for instance, you would hold down a K on
 the left, an A in the middle, and a T on the right, and when you let go of the
 three keys, the word would be inputted.
 
-![Diagram showing how to type KAT](/img/portfolio/res/kat.png)
+![Diagram showing how to type KAT](/img/technology/res/kat.png)
 
 Unstressed parts of a word can also be omitted, allowing you to type
 multi-syllabic words in a single stroke.
 
-![Diagram showing how to type KAT](/img/portfolio/res/trapd.png)
+![Diagram showing how to type KAT](/img/technology/res/trapd.png)
 
 For the missing letters on the keyboard there are special key combinations. For
 instance, pressing E and U together gives you I. Pressing TKPW gives you J.
@@ -48,7 +48,7 @@ keyboard. Real stenotypes cost upwards of $3000 while a 2 octave MIDI keyboard
 costs $40. We can map the keys of a stenotype directly onto such a MIDI
 keyboard as shown here.
 
-![Diagram showing the key layout of the musical stenotype](/img/portfolio/res/keys.png)
+![Diagram showing the key layout of the musical stenotype](/img/technology/res/keys.png)
 
 Now we have a cheap playable USB stenotype. As an added bonus, each keypress
 also plays a piano tone which means your brain forms more associations as it
@@ -67,5 +67,5 @@ both poems that you write with steno, and musical pieces that you listen to.
 
 Watch my steno poem ["Human being"](https://www.youtube.com/watch?v=cI-l8inuBXU) (or watch the [live version with talk](https://www.youtube.com/watch?v=6sJtn3R2_Bk)).
 
-![Sheet music for Human Being](/img/portfolio/res/hb1.png)
-![Sheet music for Human Being](/img/portfolio/res/hb2.png)
+![Sheet music for Human Being](/img/technology/res/hb1.png)
+![Sheet music for Human Being](/img/technology/res/hb2.png)

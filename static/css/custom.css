@@ -1,22 +1,45 @@
 body {
-    font-family: "Tahoma";
+    font-family: "Trebuchet MS";
     background-color: white;
 }
 
 h1, h2, h3, h4 {
-    font-family: "Tahoma";
+    font-family: "Trebuchet MS";
 }
 
 .sidebar-menu {
-    font-family: "Tahoma";
+    font-family: "Trebuchet MS";
 }
 
 .box-masonry {
     box-shadow: 0 0 0 0;
-    border-style: dotted;
-    border-color: #999999;
-    padding: 5px;
+    border: 1px solid #AAAAAA;
+    border-radius: 5px;
+    padding: 10px;
     background-color: white;
+}
+
+.box-masonry .box-masonry-image {
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.box-masonry .box-masonry-text {
+    padding: 10px 0 0;
+}
+
+.box-masonry .box-masonry-hover-text-header {
+    padding: 10px;
+}
+
+.box-masonry h4 {
+    margin-bottom: 4px;
+}
+
+/* The theme nests the summary's <p> inside another <p>, which leaves empty
+   paragraphs whose 24px margins swamp the title spacing. */
+.box-masonry .box-masonry-description p {
+    margin: 0;
 }
 
 .box-masonry:hover {

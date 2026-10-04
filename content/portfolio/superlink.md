@@ -2,7 +2,7 @@
 date = "2019"
 title = "Superlinks"
 draft = false
-image = "img/portfolio/superlinks.png"
+image = "img/technology/superlinks.png"
 showonlyimage = false
 weight = 6
 +++
@@ -14,7 +14,7 @@ Superlinks is a Google Chrome extension which "upgrades" your hyperlinks into Su
 
 Why would you want this? I'm not sure.
 
-![Demo](/img/portfolio/res/superlinks_demo.gif)
+![Demo](/img/technology/res/superlinks_demo.gif)
 
 Join "hundreds" of other users in using the extension [here](https://chrome.google.com/webstore/detail/superlinks/ildidgmdkfaldcfogkghghkbgjkbhflm) or explore the source [here](https://github.com/jminjie/superlink).
 

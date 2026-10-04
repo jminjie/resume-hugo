@@ -1,5 +1,5 @@
 +++
-image = "img/portfolio/projections.png"
+image = "img/technology/projections.png"
 showonlyimage = false
 date = "2021"
 title = "Projections"
@@ -10,7 +10,7 @@ weight = 2
 Collection of executable poetry using Word2Vec to sort ungendered objects by gender.
 <!--more-->
 
-![Projections page 4](/img/portfolio/res/proj4.png)
+![Projections page 4](/img/technology/res/proj4.png)
 
 Using word embeddings trained on Twitter with the
 Word2Vec algorithm, I turned words into points in high
@@ -28,7 +28,7 @@ to the distance between “boy” and “girl.”
 The result is a series of newly gendered things.
 
 
-Read "Projections" [here](/img/portfolio/res/projections.pdf).
+Read "Projections" [here](/img/technology/res/projections.pdf).
 
 #### About
 Prior work has shown that word embeddings can be effective at making [certain kinds of analogies](https://blog.esciencecenter.nl/king-man-woman-king-9a7fd2935a85?gi=1b2f32b87ec8). I was playing around with these locally and thought to calculate the analogy "boy:haha::girl:__", to which the computer provided the answer, "lolol," which I found strange and appropriate.

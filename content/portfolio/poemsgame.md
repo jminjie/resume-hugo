@@ -1,5 +1,5 @@
 +++
-image = "img/portfolio/poemsgame.png"
+image = "img/technology/poemsgame.png"
 showonlyimage = false
 date = "2020-2021"
 title = "The Poems Game"
@@ -23,7 +23,7 @@ Play the game [here](http://poems.jminjie.com/).
 #### E.g.
 An example of a poem with several submitted endings.
 
-![Poem example](/img/portfolio/res/poem2.png)
+![Poem example](/img/technology/res/poem2.png)
 
 #### About
 I used to play this game with my roommates, but entirely by hand.

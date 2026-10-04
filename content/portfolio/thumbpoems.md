@@ -1,5 +1,5 @@
 +++
-image = "img/portfolio/thumbpoems.png"
+image = "img/technology/thumbpoems.png"
 showonlyimage = false
 date = "2019"
 title = "Thumbpoems"
@@ -15,9 +15,9 @@ Thumbpoems is live at [thumbpoems.com](https://thumbpoems.com/).
 #### Selected poems
 Other-worldly work email
 
-![Image preview.](/img/portfolio/res/thumbpoems.png)
+![Image preview.](/img/technology/res/thumbpoems.png)
 
 A text you never sent
 
-![Image preview.](/img/portfolio/res/thumbpoems2.png)
+![Image preview.](/img/technology/res/thumbpoems2.png)
 

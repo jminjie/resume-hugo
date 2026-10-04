@@ -1,5 +1,5 @@
 +++
-image = "img/portfolio/typebyke.png"
+image = "img/technology/typebyke.png"
 showonlyimage = false
 date = "2019"
 title = "TypeByke"
@@ -10,7 +10,7 @@ weight = 2
 TypeByke is a game for 0-2 (yes, 0) players that combines Tron and Scrabble.
 <!--more-->
 
-![TypeByke Logo](/img/portfolio/res/typebyke_logo.png)
+![TypeByke Logo](/img/technology/res/typebyke_logo.png)
 
 In TypeByke you pilot a Tron bike to pick up letters which you use to spell words. Spelling words fills up your meter, which can be used to boost your speed or make walls to block the other player. You win by filling your meter completely, or making your opponent crash.
 

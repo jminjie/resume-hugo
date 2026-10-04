@@ -1,5 +1,5 @@
 +++
-image = "img/portfolio/fourhands.png"
+image = "img/technology/fourhands.png"
 showonlyimage = false
 date = "2021"
 title = "Fourhands"
@@ -10,7 +10,7 @@ weight = 4
 A low-latency shared piano for two musicians to jam online.
 <!--more-->
 
-![Fourhands logo](/img/portfolio/res/fourhandslogo.png)
+![Fourhands logo](/img/technology/res/fourhandslogo.png)
 
 Try Fourhands [here](https://fourhands.jminjie.com/).
 

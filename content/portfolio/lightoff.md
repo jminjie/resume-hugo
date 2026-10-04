@@ -1,5 +1,5 @@
 +++
-image = "img/portfolio/lightsoff.png"
+image = "img/technology/lightsoff.png"
 date = "2021"
 title = "Leave the Light Off"
 draft = false

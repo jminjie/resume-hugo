@@ -1,5 +1,5 @@
 +++
-image = "img/portfolio/rocaptcha.png"
+image = "img/technology/rocaptcha.png"
 showonlyimage = false
 date = "2021"
 title = "Robots Only"
@@ -14,7 +14,7 @@ A website that only lets in robots.
 
 You can visit the page [here](https://robotonlywebsite.com/) though you might not be able to get in.
 
-![Preview of site](/img/portfolio/res/robotsonly.png)
+![Preview of site](/img/technology/res/robotsonly.png)
 
 #### About
 It was recently pointed out to me that a lot of my work explores humor through inversion. This is categorically false.
