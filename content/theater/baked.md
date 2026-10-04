@@ -1,5 +1,5 @@
 +++
-image = "img/theatre/res/baked.png"
+image = "img/theater/res/baked.png"
 showonlyimage = false
 date = "2017-present"
 title = "Baked! The Musical"
@@ -10,7 +10,7 @@ weight = 1
 Baked! The Musical is a full length musical about cannabis-infused Chinese bakery edibles created by Jord Liu and Deepak Kumar, featuring an all-Asian cast. 
 <!--more-->
 
-!["Baked! The Musical" photo](/img/theatre/res/baked4.png)
+!["Baked! The Musical" photo](/img/theater/res/baked4.png)
 *CMTF 2020 - Photo by Katy Campbell*
 
 The show premiered at the Chicago Musical Theatre Festival 2020, where it won Best Lyrics, Best Lead, Best Supporting, and Best Ensemble.
@@ -18,7 +18,7 @@ The show premiered at the Chicago Musical Theatre Festival 2020, where it won Be
 See [bakedthemusical.com](https://www.bakedthemusical.com/) for more details.
 
 ### About the show
-!["Baked! The Musical" Poster](/img/theatre/res/bakedposter.png)
+!["Baked! The Musical" Poster](/img/theater/res/bakedposter.png)
 
 When she doesn’t receive the scholarship that would send her to her dream school, habitual overachiever Jane Huang, with the help of her best friend, joins forces with the class degenerate to build the greatest drug empire ever run by highschoolers. Kept in the dark are Jane’s parents, whose inability to cope with their daughter leaving for college while maintaining a profit at their struggling Chinese bakery drives them to pry and potentially unravel Jane’s web of lies.
 
@@ -26,7 +26,7 @@ Baked! The Musical is a reflection on perfectionism, self worth, and the questio
 
 Interested in producing the show? Check out a production packet [here](https://tinyurl.com/bakedpromo) and song demos on [Soundcloud](https://soundcloud.com/baked-the-musical/sets/baked-the-musical-demos).
 
-!["Baked! The Musical" photo](/img/theatre/res/baked5.png)
+!["Baked! The Musical" photo](/img/theater/res/baked5.png)
 *CMTF 2020 - Photo by Katy Campbell*
 
 

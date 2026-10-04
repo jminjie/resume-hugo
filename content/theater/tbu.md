@@ -1,5 +1,5 @@
 +++
-image = "img/theatre/res/BROAS_SFBATCO-NRTF_2023-13.jpg"
+image = "img/theater/res/BROAS_SFBATCO-NRTF_2023-13.jpg"
 showonlyimage = false
 date = "2017-present"
 title = "THE BIGNESS OF US"
@@ -9,7 +9,7 @@ weight = 1
 A new musical in development set in Shanghai in the 1930s which explores the political tension and music of the era.
 
 <!--more-->
-!["The Bigness of Us at NRTF"](/img/theatre/res/BROAS_SFBATCO-NRTF_2023-13.jpg)
+!["The Bigness of Us at NRTF"](/img/theater/res/BROAS_SFBATCO-NRTF_2023-13.jpg)
 *NRTF 2022*
 
 ### About
