@@ -1,7 +1,7 @@
 +++
 image = "img/theater/res/shoshana.png"
 showonlyimage = false
-date = "2023-2024"
+date = "2021-2022"
 title = "Shoshana in December"
 draft = false
 weight = 2
