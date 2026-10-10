@@ -1,7 +1,7 @@
 +++
 image = "img/theater/res/baked.png"
 showonlyimage = false
-date = "2017-present"
+date = "2017-2023"
 title = "Baked! The Musical"
 draft = false
 weight = 1

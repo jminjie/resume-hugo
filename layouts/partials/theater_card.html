@@ -1,0 +1,31 @@
+<div class="box-masonry theater-card">
+    {{ if and (isset .Params "image") .Params.image }}
+      {{ if eq .Params.showonlyimage true }}
+      <a href="{{ .Permalink }}" title="" class="box-masonry-image with-hover-overlay">
+      {{ else }}
+      <a href="{{ .Permalink }}" title="" class="box-masonry-image with-hover-overlay with-hover-icon">
+      {{ end }}
+          <img src="{{.Params.image | absURL}}" alt="" class="img-responsive">
+      </a>
+    {{ end }}
+    {{ if eq .Params.showonlyimage true }}
+    <div class="box-masonry-hover-text-header">
+    {{ else }}
+    <div class="box-masonry-text">
+    {{ end }}
+        <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+        {{/* Hugo drops non-date values like "2017-present", so read date from the raw front matter */}}
+        {{ with findRE `(?m)^date\s*=\s*"[^"]*"` (readFile (path.Join "content" .File.Path)) 1 }}
+          <p class="theater-card-date">{{ replaceRE `^date\s*=\s*"([^"]*)"` "$1" (index . 0) }}</p>
+        {{ end }}
+        <div class="box-masonry-description">
+          <p>
+              {{ if .Description }}
+                {{ .Description }}
+              {{ else }}
+                {{ .Summary }}
+              {{ end }}
+          </p>
+        </div>
+    </div>
+</div>

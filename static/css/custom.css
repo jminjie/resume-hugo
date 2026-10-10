@@ -60,3 +60,23 @@ h1, h2, h3, h4 {
         padding: 5em 0em 0em 5em;
     }
 }
+
+/* Sectioned card view on the /theater page */
+.theater-section-heading {
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+
+/* Cards already leave 30px below themselves, so only pad above the heading */
+.theater-section-divider {
+    margin-top: 0;
+    margin-bottom: 30px;
+    border-top: 1px solid #DDDDDD;
+}
+
+.theater-card-date {
+    margin: 0 0 6px;
+    font-size: 13px;
+    color: #777777;
+    font-weight: bold;
+}

@@ -1,0 +1,30 @@
+{{ define "main" }}
+<div class="col-xs-12 col-sm-8 col-md-9 content-column">
+    {{ partial "mobile_nav_toggle.html" . }}
+    <div style="margin: 0em 3em 0em 3em;">
+        <h3 class="theater-section-heading">Playwrighting &amp; Composition</h3>
+        <div class="grid">
+            <div class="row">
+                {{ range where .Pages "Weight" 1 }}
+                    <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 masonry-item">
+                        {{ partial "theater_card.html" . }}
+                    </div>
+                {{ end }}
+            </div>
+        </div>
+
+        <hr class="theater-section-divider">
+
+        <h3 class="theater-section-heading">Music Direction &amp; Accompaniment</h3>
+        <div class="grid">
+            <div class="row">
+                {{ range where .Pages "Weight" 2 }}
+                    <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 masonry-item">
+                        {{ partial "theater_card.html" . }}
+                    </div>
+                {{ end }}
+            </div>
+        </div>
+    </div>
+</div>
+{{ end }}

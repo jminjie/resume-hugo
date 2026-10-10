@@ -1,7 +1,7 @@
 +++
 image = "img/theater/res/BROAS_SFBATCO-NRTF_2023-13.jpg"
 showonlyimage = false
-date = "2017-present"
+date = "2022-present"
 title = "THE BIGNESS OF US"
 draft = false
 weight = 1
